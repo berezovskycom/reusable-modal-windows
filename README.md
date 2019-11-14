@@ -2,6 +2,9 @@
 
 Use this module to save up some time on creating fuctionality for Modal Windows, or anything that needs to be clicked & toggled.
 
+## Download
+You can download the module from the Github repo, or use (npm package)[https://www.npmjs.com/package/reusable-modal-windows]
+
 ## Basic Usage
 
 ```html

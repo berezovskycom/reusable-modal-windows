@@ -1,0 +1,23 @@
+{
+  "name": "reusable-modal-windows",
+  "version": "1.0.0",
+  "description": "Use this module to save up some time on creating fuctionality for Modal Windows, or anything that needs to be clicked & toggled.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berezovskycom/reusable-modal-windows.git"
+  },
+  "keywords": [
+    "modal",
+    "window"
+  ],
+  "author": "Vladimir Berezovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berezovskycom/reusable-modal-windows/issues"
+  },
+  "homepage": "https://github.com/berezovskycom/reusable-modal-windows#readme"
+}
