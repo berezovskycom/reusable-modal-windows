@@ -1,4 +1,4 @@
-# Reusable Modal Window
+# Reusable Modal Windows
 
 Use this module to save up some time on creating fuctionality for Modal Windows, or anything that needs to be clicked & toggled.
 
